@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "9K9L36R28Z.com.creonit.novex",
-                "paths": [ "/*"]
+                "paths": [ "*"]
             }
         ]
     }
